@@ -11,13 +11,10 @@
 -->
 
 ## Shirase0 - The Projects
-
-
-📚 ["Completed"]
   
 📙 New Golang Django Based Communication [Working]
 
- <div>
+ <div style="display: inline_block">
   <a href="https://github.com/Shirase0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shirase0&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirase0&layout=compact&langs_count=7&theme=blue-green"/>
