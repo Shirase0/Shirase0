@@ -12,7 +12,7 @@
 
 ## Shirase0 - The Projects
   
-📙 New Golang Django Based Communication [Working]
+📙 New Golang GUI Framework [Working]
 
  <div style="display: inline_block">
   <a href="https://github.com/Shirase0">
