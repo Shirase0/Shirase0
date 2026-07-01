@@ -12,12 +12,13 @@
 
 ## Shirase0 - The Projects
 
-📙 New Golang GUI Framework [Working]
+📙 Adaptive BCI Calibration [Working]
 
+<!--
 <a href="https://github.com/Shirase0">
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirase0&layout=compact&langs_count=7&theme=blue-green"/>
 </a>
+-->
 
 #### Systems
 
